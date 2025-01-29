@@ -3,7 +3,7 @@
   <h3 align="center">Video Sharing App</h3>
 
    <div align="center">
-     Thia is a demo video of how the <a href="[https://www.youtube.com/@javascriptmastery/videos](https://drive.google.com/file/d/1GSmHnbb9evPbsQby43lecEfkL0ux8CTz/view?usp=sharing)" target="_blank"><b>EventX</b></a> app works. I hope you enjoy it!
+     Thia is a demo video of how the <a href="[https://drive.google.com/file/d/1GSmHnbb9evPbsQby43lecEfkL0ux8CTz/view?usp=sharing]" target="_blank"><b>EventX</b></a> app works. I hope you enjoy it!
     </div>
 </div>
 
