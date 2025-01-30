@@ -123,7 +123,7 @@ npx expo start --clear
 
 **Expo Go**
 
-Download the [Expo Go SDK version 50](https://expo.dev/go) app onto your device, then use it to scan the QR code from Terminal and run.
+Download the [Expo Go SDK version 52](https://expo.dev/go) app onto your device, then use it to scan the QR code from Terminal and run.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
